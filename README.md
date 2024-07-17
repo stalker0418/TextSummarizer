@@ -30,6 +30,7 @@ source "Your environment name"/scripts/activate
 pip install -r requirements.txt
 ```
 
+### STEP 03- Run the Application
 
 ```bash
 # Finally run the following command
