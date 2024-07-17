@@ -64,5 +64,9 @@ def model_evaluation():
         raise e
 
 
+data_ingestion()
+data_validation()
+data_transformation()
+model_train()
 model_evaluation()
 
